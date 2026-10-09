@@ -1,0 +1,10 @@
+{
+  "description": "Dashboard for photography studios to track clients, sessions, finances, and upcoming shoots with interactive charts and quick action tools for efficient management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
